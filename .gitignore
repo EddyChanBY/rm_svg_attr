@@ -1,0 +1,3 @@
+venv
+.vscode
+strip_attr/test
