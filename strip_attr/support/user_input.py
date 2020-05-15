@@ -5,7 +5,7 @@ import sys, getopt
 
 def parse_user_input(argv):
     number_of_input = 2
-    usage_string = "Usage: conv.py -a <attr_to_strip> -i <inputfile>"
+    usage_string = "Usage: strip_attr.py -a <attr_to_strip> -i <inputfile>"
     inputfile = ""
     attr_to_strip = ""
     errorwarning = ""
